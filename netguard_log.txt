@@ -1,0 +1,45 @@
+[2025-08-25 18:57:05] Source=Network | Data=TCP normal packet | Status=CLEAN
+[2025-08-25 18:57:05] Source=File | Data=trojan_app.apk | Status=THREAT (Severity=Medium)
+[2025-08-25 18:57:05] Source=Process | Data=python.exe | Status=CLEAN
+[2025-08-25 18:57:07] Source=Network | Data=UDP normal | Status=CLEAN
+[2025-08-25 18:57:07] Source=File | Data=harmless.txt | Status=CLEAN
+[2025-08-25 18:57:07] Source=Process | Data=python.exe | Status=CLEAN
+[2025-08-25 18:57:09] Source=Network | Data=TCP exploit attempt | Status=THREAT (Severity=Low)
+[2025-08-25 18:57:09] Source=File | Data=installer.exe | Status=CLEAN
+[2025-08-25 18:57:09] Source=Process | Data=system idle | Status=CLEAN
+[2025-08-25 18:57:11] Source=Network | Data=UDP normal | Status=CLEAN
+[2025-08-25 18:57:11] Source=File | Data=trojan_app.apk | Status=THREAT (Severity=Medium)
+[2025-08-25 18:57:11] Source=Process | Data=system idle | Status=CLEAN
+[2025-08-25 18:57:13] Source=Network | Data=MALWARE signature in traffic | Status=THREAT (Severity=High)
+[2025-08-25 18:57:13] Source=File | Data=harmless.txt | Status=CLEAN
+[2025-08-25 18:57:13] Source=Process | Data=svchost.exe | Status=CLEAN
+[2025-08-25 18:57:15] Source=Network | Data=DNS request | Status=CLEAN
+[2025-08-25 18:57:15] Source=File | Data=harmless.txt | Status=CLEAN
+[2025-08-25 18:57:15] Source=Process | Data=svchost.exe | Status=CLEAN
+[2025-08-25 18:57:17] Source=Network | Data=TCP normal packet | Status=CLEAN
+[2025-08-25 18:57:17] Source=File | Data=installer.exe | Status=CLEAN
+[2025-08-25 18:57:17] Source=Process | Data=malicious_trojan.exe | Status=THREAT (Severity=Medium)
+[2025-08-25 19:19:27] Source=Network | Data=TCP exploit attempt | Status=THREAT (Severity=Low)
+[2025-08-25 19:19:27] Source=File | Data=trojan_app.apk | Status=THREAT (Severity=Medium)
+[2025-08-25 19:19:27] Source=Process | Data=chrome.exe | Status=CLEAN
+[2025-08-25 19:19:29] Source=Network | Data=UDP normal | Status=CLEAN
+[2025-08-25 19:19:29] Source=File | Data=trojan_app.apk | Status=THREAT (Severity=Medium)
+[2025-08-25 19:19:29] Source=Process | Data=svchost.exe | Status=CLEAN
+[2025-08-25 19:19:31] Source=Network | Data=MALWARE signature in traffic | Status=THREAT (Severity=High)
+[2025-08-25 19:19:31] Source=File | Data=trojan_app.apk | Status=THREAT (Severity=Medium)
+[2025-08-25 19:19:31] Source=Process | Data=system idle | Status=CLEAN
+[2025-08-25 19:19:33] Source=Network | Data=TCP normal packet | Status=CLEAN
+[2025-08-25 19:19:33] Source=File | Data=installer.exe | Status=CLEAN
+[2025-08-25 19:19:33] Source=Process | Data=system idle | Status=CLEAN
+[2025-08-25 19:19:35] Source=Network | Data=TCP normal packet | Status=CLEAN
+[2025-08-25 19:19:35] Source=File | Data=malware_payload.dll | Status=THREAT (Severity=High)
+[2025-08-25 19:19:35] Source=Process | Data=chrome.exe | Status=CLEAN
+[2025-08-25 19:19:37] Source=Network | Data=TCP exploit attempt | Status=THREAT (Severity=Low)
+[2025-08-25 19:19:37] Source=File | Data=trojan_app.apk | Status=THREAT (Severity=Medium)
+[2025-08-25 19:19:37] Source=Process | Data=python.exe | Status=CLEAN
+[2025-08-25 19:19:39] Source=Network | Data=TCP normal packet | Status=CLEAN
+[2025-08-25 19:19:39] Source=File | Data=trojan_app.apk | Status=THREAT (Severity=Medium)
+[2025-08-25 19:19:39] Source=Process | Data=system idle | Status=CLEAN
+[2025-08-25 19:19:41] Source=Network | Data=UDP normal | Status=CLEAN
+[2025-08-25 19:19:41] Source=File | Data=trojan_app.apk | Status=THREAT (Severity=Medium)
+[2025-08-25 19:19:41] Source=Process | Data=system idle | Status=CLEAN
